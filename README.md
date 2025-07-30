@@ -1,5 +1,5 @@
 # Hi, I'm NatalkaLink! 👋
-
+I’m a web developer who enjoys combining design and clean code to build responsive, user-friendly websites. I care about structure, details, and learning new things to keep growing and improving my work.
 <!--
 **natalkalink/NatalkaLink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

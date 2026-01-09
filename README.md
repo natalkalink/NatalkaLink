@@ -27,9 +27,8 @@ I’m a web developer who enjoys combining design and clean code to build respon
   </a>
 </p>
 
-### Connect with me:
-
-Coming soon...
+### 🤝 Let's connect!
+*Currently updating my social networks. Feel free to check back soon!*
 
 
 

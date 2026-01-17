@@ -10,9 +10,9 @@ I’m a web developer who enjoys combining design and clean code to build respon
 
 ### 📫 Let's connect!
 
-<a href="https://t.me/natalkalink"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=telegram&logoColor=2CA5E0" height="35" /></a>
-<a href="https://linkedin.com/in/твой_ник"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=linkedin&logoColor=0A66C2" height="35" /></a>
-<a href="mailto:nekrasovanatalia7@gmail.com"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=gmail&logoColor=EA4335" height="35" /></a>
+<a href="https://t.me/natalkalink"><img src="https://skillicons.dev/icons?i=telegram" width="40" /></a>
+<a href="https://linkedin.com/in/твой_ник"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="mailto:твой_почта"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 
 
 

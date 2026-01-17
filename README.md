@@ -8,7 +8,6 @@ I’m a web developer who enjoys combining design and clean code to build respon
 
 ### 📫 Let's connect!
 
-<a href="https://linkedin.com/in/твой_ник"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
 <a href="mailto:nekrasovanatalia7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 
 

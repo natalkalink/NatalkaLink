@@ -21,15 +21,9 @@ I’m a web developer who enjoys combining design and clean code to build respon
 ### 📫 Let's connect!
 
 <p align="left">
-  <a href="mailto:nekrasovanatalia7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8B735B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/natalkalink">
-    <img src="https://img.shields.io/badge/Telegram-8B735B?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your_profile">
-    <img src="https://img.shields.io/badge/LinkedIn-8B735B?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="mailto:nekrasovanatalia7@gmail.com"><img src="https://img.shields.io/badge/Email-8B735B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/natalkalink"><img src="https://img.shields.io/badge/Telegram-8B735B?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your_profile"><img src="https://img.shields.io/badge/LinkedIn-8B735B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 

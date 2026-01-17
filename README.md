@@ -8,7 +8,7 @@ I’m a web developer who enjoys combining design and clean code to build respon
 
 ### 🤝 Let's connect!
 
-<a href="https://t.me/@natalkalink" style="text-decoration: none;">
+<a href="https://telegram/@natalkalink" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" />
 </a>
 &nbsp;

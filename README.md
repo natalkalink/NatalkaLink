@@ -8,9 +8,15 @@ I’m a web developer who enjoys combining design and clean code to build respon
 
 ### 🤝 Let's connect!
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natalkalink)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalkalink)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekrasovanatalia7@gmail.com)
+<a href="https://t.me/@natalkalink">
+  <img src="https://skillicons.dev/icons?i=telegram" />
+</a>
+<a href="https://linkedin.com/in/твой_ник">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:nekrasovanatalia7@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 
 

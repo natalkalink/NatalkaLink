@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner-1.jpg" width="100%" alt="NatalkaLInk - Frontend Developer Banner">
+</p>
 
 # Hi, I'm NatalkaLink! 
 I’m a web developer who enjoys combining design and clean code to build responsive, user-friendly websites. I care about structure, details, and learning new things to keep growing and improving my work.

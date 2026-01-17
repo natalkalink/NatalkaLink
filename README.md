@@ -3,7 +3,7 @@ I’m a web developer who enjoys combining design and clean code to build respon
 
 ## 🛠 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,figma,vscode,git,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,figma,vscode,git)](https://skillicons.dev)
 ### 🤝 Let's connect!
 *Currently updating my social networks. Feel free to check back soon!*
 

@@ -1,6 +1,4 @@
 
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Frontend%20Developer&fontSize=70)
-
 # Hi, I'm NatalkaLink! 👋
 I’m a web developer who enjoys combining design and clean code to build responsive, user-friendly websites. I care about structure, details, and learning new things to keep growing and improving my work.
 

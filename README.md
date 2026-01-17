@@ -8,17 +8,11 @@ I’m a web developer who enjoys combining design and clean code to build respon
 
 ### 🤝 Let's connect!
 
-<a href="https://telegram/@natalkalink" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" />
-</a>
+<a href="https://telegram/@natalkalink" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/твой_ник" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+<a href="https://linkedin.com/in/твой_ник" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:nekrasovanatalia7@gmail.com" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-</a>
+<a href="mailto:nekrasovanatalia7@gmail.com" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 
 
 

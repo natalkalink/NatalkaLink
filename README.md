@@ -8,8 +8,8 @@ I’m a web developer who enjoys combining design and clean code to build respon
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-D2B48C?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-5D4037?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-8B735B?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-8B735B?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-8B735B?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-8B735B?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-8B735B?style=for-the-badge&logo=figma&logoColor=white" />
@@ -20,7 +20,17 @@ I’m a web developer who enjoys combining design and clean code to build respon
 
 ### 📫 Let's connect!
 
-<a href="mailto:nekrasovanatalia7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+<p align="left">
+  <a href="mailto:nekrasovanatalia7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B735B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/natalkalink">
+    <img src="https://img.shields.io/badge/Telegram-8B735B?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your_profile">
+    <img src="https://img.shields.io/badge/LinkedIn-8B735B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalkaLink&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
 </p>
 
 # Hi, I'm NatalkaLink! 

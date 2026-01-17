@@ -6,13 +6,10 @@ I’m a web developer who enjoys combining design and clean code to build respon
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,figma,vscode,git)](https://skillicons.dev)
 
 
-### 🤝 Let's connect!
-
 ### 📫 Let's connect!
 
-<a href="https://t.me/natalkalink"><img src="https://skillicons.dev/icons?i=telegram" width="40" /></a>
 <a href="https://linkedin.com/in/твой_ник"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-<a href="mailto:твой_почта"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+<a href="mailto:nekrasovanatalia7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 
 
 

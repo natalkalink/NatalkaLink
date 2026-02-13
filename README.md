@@ -3,9 +3,25 @@
 </p>
 
 # Hi, I'm NatalkaLink! 
-I’m a web developer who enjoys combining design and clean code to build responsive, user-friendly websites. I care about structure, details, and learning new things to keep growing and improving my work.
 
-### 🛠️ Tech Stack & Tools
+I am a Frontend Developer with a background in choral conducting. This experience taught me to manage complex systems and understand that in software, as in music, every detail matters for the final result.
+I enjoy combining design and clean code to build responsive, user-friendly websites. I care about structure, details, and learning new things to keep growing and improving my work.
+
+### My Approach:
+
+#### Structure: 
+I focus on building clean, scalable architecture. Just like in an ensemble, every element must be in its place to create harmony.
+
+#### Style: 
+I believe that minimalist aesthetics combined with logical structure create the most intuitive user experiences.
+
+#### Growth Mindset: 
+I am currently deep-diving into JavaScript fundamentals and preparing for my next step — the React ecosystem.
+
+### Open to Collaboration:
+As a musician, I highly value professional critique and mentorship. I believe that constructive feedback is the shortest path to excellence and clean code.
+
+###  Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-8B735B?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,7 +34,7 @@ I’m a web developer who enjoys combining design and clean code to build respon
 </p>
 
 
-### 📫 Let's connect!
+###  Let's connect!
 
 <p align="left">
   <a href="mailto:nekrasovanatalia7@gmail.com"><img src="https://img.shields.io/badge/Email-8B735B?style=for-the-badge&logo=gmail&logoColor=white" /></a>

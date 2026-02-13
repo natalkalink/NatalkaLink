@@ -5,6 +5,7 @@
 # Hi, I'm NatalkaLink! 
 
 I am a Frontend Developer with a background in choral conducting. This experience taught me to manage complex systems and understand that in software, as in music, every detail matters for the final result.
+
 I enjoy combining design and clean code to build responsive, user-friendly websites. I care about structure, details, and learning new things to keep growing and improving my work.
 
 ### My Approach:
